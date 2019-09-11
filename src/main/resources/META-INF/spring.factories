@@ -1,0 +1,7 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.github.grpcx.processor.ServiceImplScanner2,\
+com.github.grpcx.listener.SmartLifecycleListener
+
+
+#org.springframework.boot.autoconfigure.batch.BatchAutoConfiguration,\
+#org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration
